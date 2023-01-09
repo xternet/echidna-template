@@ -3,4 +3,3 @@
 **Run:**
 ```
 echidna-test test/EchidnaTest.sol --config config.yaml
-```
