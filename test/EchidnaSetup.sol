@@ -1,6 +1,6 @@
 pragma solidity 0.8.17;
 
-import "./Target.sol";
+import "../contracts/Target.sol";
 
 contract User {
   function proxy(address _to, bytes memory _calldata) public returns (bool success, bytes memory returnData) {
