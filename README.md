@@ -2,4 +2,5 @@
 
 **Run:**
 ```
-echidna-test test/EchidnaTest.sol --config config.yaml
+echidna-test test/EchidnaTest.sol --contract EchidnaTest --config test/config.yaml
+```
